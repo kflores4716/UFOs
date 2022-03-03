@@ -40,6 +40,6 @@ function handleClick() {
 // Attach an event to listen for the form button
 d3.selectAll("#filter-btn").on("click", handleClick);
 
-// Call buildTable function to show users the original table
+// Call buildTable function to show users the original table when the page first loads
 buildTable(tableData);
 
