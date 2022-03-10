@@ -37,7 +37,7 @@ It is up to the user how many criteria they would like to search by. Once they t
 
 ![Search_by_all](https://user-images.githubusercontent.com/94764735/157143414-cee71c4b-78a0-4c70-b067-1fd4a575381f.png)
 
-As you can see in the images, the filters are dynamic and will populate only the sightings that fit the search criteria. As mentioned earlier, the search criteria needs to be entered the correct way or else the table won’t be filtered properly. The placeholder entries in the boxes show the user the exact format they should use when typing their criteria.    
+As you can see in the images, the filters are dynamic and will populate only the sightings that fit the search criteria. Note that the search criteria needs to be entered the correct way or else the table won’t be filtered properly. The placeholder entries in the boxes show the user the exact format they should use when typing their criteria.    
 
  
 
@@ -49,4 +49,4 @@ While this UFO webpage is pretty user-friendly with its five dynamic filters, it
 
 - Another idea might be to include drop-down menus on each filter that list all dates, cities, states, countries, and shapes that are present in the data. This way, if a user is having trouble entering their criteria, they can resort to the drop-down menu.  
 
-- Lastly, adding buttons that will both “search” and “reset” the filters might be a good idea as well. Even though the site isn’t too hard to navigate, having clearly labeled buttons to initiate a search and to then clear the search criteria provide a more user-friendly experience. Labeled buttons make it more obvious to the users how they can search the page, rather than making them play around with it until they figure out that they press enter to search and can either reload the page (or clear all boxes and press enter) to clear the search criteria. 
+- Lastly, adding buttons that will both “search” and “reset” the filters might be a good idea as well. Even though the site isn’t too hard to navigate, having clearly labeled buttons to initiate a search and to then clear the search criteria provide a more user-friendly experience. With the buttons, the users can plainly see how to navigate the page rather than having to play around to see what works.
